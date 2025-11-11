@@ -1,3 +1,9 @@
 /* Additional custom styles if needed */
+.bg-custom-gray {
+  background-color: #47484a;
+}
 
+.border-custom-gray {
+  border-color: #47484a;
+}
 
