@@ -7,3 +7,5 @@ Faqe informuese profesionale për Business Kosova Center, kompani private e them
 - **Angular 17** - Framework për aplikacionin web
 - **Tailwind CSS** - Për stilizim dhe dizajn responsive
 - **TypeScript** - Për zhvillim tipizuar
+
+https://businesskosova.center/
